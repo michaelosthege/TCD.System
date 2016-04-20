@@ -1,2 +1,2 @@
 # TCD.System
-Application extensions, TouchInjection, KeyInjection for WPF
+Application extensions and TouchInjection for WPF
