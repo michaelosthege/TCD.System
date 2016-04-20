@@ -3,6 +3,10 @@ using System.Windows.Forms;
 
 namespace TCD.System.ApplicationExtensions
 {
+    /// <summary>
+    /// this is more or less depreciated.. I put it into the TCD.System.ApplicationExtensions project years ago, when I built TouchInjector (touchinjector.codeplex.com).
+    /// right now my priority is to make this code public. Maybe this class will be removed at a later point.
+    /// </summary>
     public class MonitorInfo
     {
         public string FriendlyName { get; set; }
